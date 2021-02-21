@@ -1,0 +1,8 @@
+.app-title {
+    align-self: center;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
